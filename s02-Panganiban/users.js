@@ -5,7 +5,7 @@ let user1 = {
     "lastName" : "panganiban",
     "email" : "panganiban.rell@gmail.com",
     "password" : "rell090499",
-    "mobileNumber" : "09771263849",
+    "mobileNumber" : "09771430508",
     "isAdmin" : "false",
     "enrollments" : [ 
         {
@@ -24,7 +24,7 @@ let user2 = {
     "lastName" : "panganiban",
     "email" : "panganiban.rell@gmail.com",
     "password" : "rell090499",
-    "mobileNumber" : "09771232849",
+    "mobileNumber" : "09771430508",
     "isAdmin" : "false",
     "enrollments" : [ 
         {
