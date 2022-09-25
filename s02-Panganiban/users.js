@@ -1,10 +1,10 @@
 let user1 = {
     "_id" : ObjectId("63108322b92ebab68a3b7d07"),
-    "username" : "Ice24",
-    "firstName" : "Isaiah",
-    "lastName" : "Habitan",
-    "email" : "ice@gmail.com",
-    "password" : "Iceice",
+    "username" : "rell04",
+    "firstName" : "rell",
+    "lastName" : "panganiban",
+    "email" : "panganiban.rell@gmail.com",
+    "password" : "rell090499",
     "mobileNumber" : "09771263849",
     "isAdmin" : "false",
     "enrollments" : [ 
@@ -19,11 +19,11 @@ let user1 = {
 };
 let user2 = {
     "_id" : ObjectId("631087c3b92ebab68a3b7e7f"),
-    "username" : "Iced2",
-    "firstName" : "ice",
-    "lastName" : "ice",
-    "email" : "Habitan@gmail.com",
-    "password" : "Iceiceice",
+    "username" : "rell02",
+    "firstName" : "rell",
+    "lastName" : "panganiban",
+    "email" : "panganiban.rell@gmail.com",
+    "password" : "rell090499",
     "mobileNumber" : "09771232849",
     "isAdmin" : "false",
     "enrollments" : [ 
